@@ -4,7 +4,7 @@
 int main()
 {
 	int a=0;
-	for( ; ; )
+	for( ; ;  )
 	{
 		printf(" LIFE IS BEST");
 		
